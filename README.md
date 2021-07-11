@@ -1,5 +1,9 @@
 # nltk-sklearn
 
+### 개발
+- Python, nltk, sklearn
+- Google Colab
+
 ### 과정
 - 데이터 불러오기 - 토큰화 - 빈도수 확인 - 인코딩 - 모델 학습
  
