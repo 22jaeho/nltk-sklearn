@@ -1,6 +1,5 @@
 # nltk-sklearn
 
-### 개발
 - Python, nltk, sklearn
 - Google Colab
 
